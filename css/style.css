@@ -5,7 +5,7 @@
 }
 
 #bkgdBlur {
-  background: url(../images/bkgd1Blur.jpg) no-repeat center center fixed;
+  background: url(../images/blurr.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,7 +20,7 @@
 
 
 #bkgdMain {
-  background: url(../images/bkgd1.jpg) no-repeat center center fixed;
+  background: url(../images/iStock.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -44,6 +44,7 @@
 #siteTitle {
   height: 60%;
   margin-top: 45%;
+  
 }
 
 
@@ -66,10 +67,9 @@
   width: 100%;
   font-size: 4rem;
   letter-spacing: 4.5px;
-  /*text-align: center;*/
   text-shadow: 2px 2px #2c3e50;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 #rightCol {
